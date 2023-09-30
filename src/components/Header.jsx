@@ -111,7 +111,7 @@ const Header = () => {
             </div>
             <nav className=" flex gap-4">
               {navlinks.map((x) => (
-                <Navlink key={x.id} link={x.link} children={x.title} />
+                <Navlink key={x.id} link={x.link} title={x.title} />
               ))}
             </nav>
           </div>
@@ -173,7 +173,7 @@ const Header = () => {
                      
                         }}
                       >
-                        <Navlink key={x.id} link={x.link} children={x.title} />
+                        <Navlink key={x.id} link={x.link} title={x.title} />
                       </motion.div>
                     ))}
                   </motion.nav>
