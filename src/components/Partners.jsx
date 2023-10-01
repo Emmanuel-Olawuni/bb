@@ -1,11 +1,11 @@
 import React from "react";
 import FlowerHead from "./FlowerHead";
-import brands from "@/../public/images/image 2.png";
-import brands1 from "@/../public/images/image 56.png";
-import brands2 from "@/../public/images/image 57.png";
-import brands3 from "@/../public/images/image 58.png";
-import brands4 from "@/../public/images/image 59.png";
-import brands5 from "@/../public/images/image 60.png";
+import brands from "@/../public/images/brand.png";
+import brands1 from "@/../public/images/brand1.png";
+import brands2 from "@/../public/images/brand2.png";
+import brands3 from "@/../public/images/brand3.png";
+import brands4 from "@/../public/images/brand4.png";
+import brands5 from "@/../public/images/brand5.png";
 import Image from "next/image";
 
 const Partners = () => {
