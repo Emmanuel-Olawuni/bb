@@ -18,35 +18,35 @@ const navlinks = [
   {
     id: 2,
     title: "Menu",
-    link: "/menu",
+    link: "",
   },
   {
     id: 3,
     title: "Blog",
-    link: "/blog",
+    link: "",
   },
   {
     id: 4,
     title: "Pages",
-    link: "/page",
+    link: "",
   },
   ,
   {
     id: 5,
     title: "About",
-    link: "/about",
+    link: "",
   },
   ,
   {
     id: 6,
     title: "Shop",
-    link: "/shop",
+    link: "",
   },
   ,
   {
     id: 7,
     title: "Contact",
-    link: "/contact",
+    link: "",
   },
 ];
 const menuVar = {

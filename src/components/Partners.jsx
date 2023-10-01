@@ -18,33 +18,33 @@ const Partners = () => {
       <div className="brands grid grid-cols-2 place-items-center md:flex  md:flex-row justify-between h-[auto] md:h-[120px] mt-12 object-contain">
         <Image
           src={brands}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain"
         />
         <Image
           src={brands1}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain "
         />
         <Image
           src={brands2}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain "
         />
         <Image
           src={brands3}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain "
         />
         <Image
           src={brands4}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain "
         />
         <Image
           src={brands5}
-          alt="brands logo"
-          className=" object-contain w-[100px] h-[100px]"
+          alt="brands logo" priority  height={100} width={100}
+          className=" object-contain "
         />
       </div>
     </section>
